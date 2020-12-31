@@ -1,5 +1,5 @@
 # Tic-tac-toe
-Check tic-tac-toe board to see if either player has won. 
+Check a valid tic-tac-toe board to see if either player has won. 
 
 Input:
 	board... array that represents a tic-tac-toe board. Board[rowSize * rowSize]
